@@ -7,13 +7,13 @@ Meu nome é <strong>Heloisa dos Anjos</strong> e estas são algumas informaçõe
 - 🟠 Atualmente estou estudando tecnologias front-end.
 - 🔵 Sou de Porto Alegre/RS!
 - 🟣 Tenho facilidade com a área das artes, criatividade e design.
-- 🔴 Meus hobbies incluem: cantar, desenhar, cozinhar para os amigos e aprender idiomas.
-- 🟠 email: heloisasdosanjos@gmail.com
+- 🟠 Meus hobbies incluem: cantar, desenhar, cozinhar para os amigos e aprender idiomas.
+- 🔴 email: heloisasdosanjos@gmail.com
 ##
 <div>
 <a href="//beacons.ai/heloisasdosanjos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloisasdosanjos&show_icons=true&&theme=swift&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisasdosanjos&layout=compact&langs_count=168&theme=swift"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloisasdosanjos&show_icons=true&&theme=swift&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
