@@ -3,8 +3,8 @@ Bem vindo ao meu perfil do github! 🪐
 ##
 Meu nome é <strong>Heloisa dos Anjos</strong> e estas são algumas informações sobre mim:
 
-- 🔴 Eu sou formada em arquitetura e urbanismo e apaixonada pela área de tecnologia!
-- 🟠 Atualmente estou estudando tecnologias front-end.
+- 🔴 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando tecnologias front-end.
+- 🟠 Eu sou formada em arquitetura e urbanismo e apaixonada pela área de tecnologia!
 - 🔵 Sou de Porto Alegre/RS!
 - 🟣 Tenho facilidade com a área das artes, criatividade e design.
 - 🟠 Meus hobbies incluem: cantar, desenhar, cozinhar para os amigos e aprender idiomas.
